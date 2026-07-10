@@ -1,0 +1,2 @@
+﻿M,N,inclination,total_satellites,grid_step_degree,time_step_second,space_time_coverage_ratio,full_region_coverage_ratio,worst_instantaneous_ratio,worst_time_minutes,minimum_point_ratio,worst_point_latitude,worst_point_longitude,average_multiplicity,maximum_gap_minutes,maximum_gap_latitude,maximum_gap_longitude,feasible
+32,64,53.75,2048,0.5,30.0,0.999968265993266,0.6340277777777777,0.9998383838383839,33.5,0.9958333333333333,7.5,73.0,4.071308529741863,0.5,7.5,73.0,False

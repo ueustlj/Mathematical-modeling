@@ -1,0 +1,17 @@
+Q3(2) Worst-case minimum-delay route
+========================================================================
+Time: 3508.241 s = 58.471 min
+Source ground point: (4.000 deg N, 135.000 deg E)
+Target ground point: (11.000 deg N, 73.000 deg E)
+Dijkstra latency: 51.727989 ms
+Reconstructed latency: 51.727989 ms
+Uplink distance: 671.828 km
+ISL path distance: 11994.864 km
+Downlink distance: 592.525 km
+Total propagation distance: 13259.217 km
+Propagation delay: 44.227989 ms
+Processing delay: 7.500000 ms
+Number of satellites on route: 16
+Number of ISL hops: 15
+Satellite route:
+P17-S19 -> P16-S20 -> P15-S21 -> P14-S22 -> P13-S23 -> P12-S24 -> P11-S25 -> P10-S26 -> P09-S27 -> P09-S26 -> P09-S25 -> P09-S24 -> P09-S23 -> P09-S22 -> P09-S21 -> P09-S20
